@@ -1,2 +1,2 @@
-# Coursera_FrontEnd
+# coursera_FrontEnd
 Repository for Johns Hopkins Frontend course
